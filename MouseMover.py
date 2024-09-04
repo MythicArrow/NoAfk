@@ -12,7 +12,13 @@ while True:
   y = random.randint(200,600)
   pag.moveTo(x,y,0.5)
   time.sleep(random.randint(0.5,5))
+  w = keyboard.press_and_release('w')
+  w += 1
+  if b == 3:
+    keyboard.wait(3)
   
+
+
   
   
   
