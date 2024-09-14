@@ -1,1 +1,1 @@
-Currently this program has 2 files: The MouseMover is for the normal NoAfk program and the other one is an experimental rl agent.
+Currently this program has 2 files: The MouseMover is for the normal NoAfk program and the other one is an experimental RL agent. The ai file doesn't have a Gui for now. But it will be added in the future updates.
